@@ -14,7 +14,7 @@ function App() {
     error: null
   });
 
-  const apiUrl = "https://api.github.com/users/hacktivist123/repos"
+  const apiUrl = "https://api.github.com/users/thecomputerguy/repos"
 const loadDataFromApiWithAxios = async () =>{
       try{
 
